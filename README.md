@@ -6,6 +6,6 @@ API Call: https://www.youtube.com/watch?v=XtMThy8QKqU
 To Use create .env file with your API Key.
 Not quite done yet. Navigation is just a demo, not working yet.
 
-![Screenshot][logo]
+![Screenshot][screen]
 
-[logo]: https://github.com/ "Logo Title Text 2"
+[screen]: https://github.com/muench-develops/netflix-clone/blob/master/netflix-clone.PNG?raw=true "Logo Title Text 2"
