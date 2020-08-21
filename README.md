@@ -1,6 +1,7 @@
 ## React Netflix Clone <small>(Not done yet)</small>
 
 Used API: https://www.themoviedb.org/?language=de
+
 API Call: https://www.youtube.com/watch?v=XtMThy8QKqU
 
 To Use create .env file with your API Key.
