@@ -39,3 +39,15 @@ span.navBrand {
 .nav-right span {
   margin-left: 20px;
 }
+
+.nav-item:hover {
+  transform: transform 450ms;
+}
+.nav-item:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.nav-item-icon:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
