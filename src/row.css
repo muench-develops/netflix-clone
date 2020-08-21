@@ -18,6 +18,7 @@
   max-height: 100px;
   transition: transform 450ms;
   margin-right: 10px;
+  opacity: 0.9;
 }
 
 .row__poster:hover {
