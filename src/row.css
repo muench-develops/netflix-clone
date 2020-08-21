@@ -18,12 +18,16 @@
   max-height: 100px;
   transition: transform 450ms;
   margin-right: 10px;
-  opacity: 0.9;
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(0.6); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(0.6); /* Microsoft Edge and Firefox 35+ */
 }
 
 .row__poster:hover {
   transform: scale(1.08);
   opacity: 1;
+  -webkit-filter: grayscale(0);
+  filter: none;
 }
 
 .row__posterLarge {
