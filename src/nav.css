@@ -1,0 +1,41 @@
+/* .navbar {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  position: flex;
+  justify-content: space-between;
+}
+
+
+.nav_left_side span {
+  margin-left: 20px;
+} */
+
+.navbar {
+  /* margin-left: 20px; */
+  margin-bottom: 20px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-left {
+  display: flex;
+  align-items: baseline;
+}
+
+.nav-left span {
+  margin-left: 20px;
+}
+
+span.navBrand {
+  font-size: 1.7em;
+  color: #e50914;
+}
+
+.nav-right {
+  margin-right: 20px;
+}
+
+.nav-right span {
+  margin-left: 20px;
+}
